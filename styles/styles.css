@@ -1,0 +1,9 @@
+.form-container {
+    width: 90%;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+}
+.fixed-height {
+    height: 220px;
+}
